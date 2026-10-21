@@ -1,0 +1,16 @@
+[
+  {
+    "key": "c_user",
+    "value": "REPLACE_WITH_YOUR_OWN_ACCOUNT_ID",
+    "domain": ".facebook.com",
+    "path": "/",
+    "hostOnly": false
+  },
+  {
+    "key": "xs",
+    "value": "REPLACE_WITH_YOUR_OWN_SESSION_COOKIE",
+    "domain": ".facebook.com",
+    "path": "/",
+    "hostOnly": false
+  }
+]

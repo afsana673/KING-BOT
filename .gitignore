@@ -1,0 +1,18 @@
+node_modules/
+.env
+.env.*
+!.env.example
+# Never publish Messenger sessions / cookies
+appstate.json
+apostate.json
+apostate.jison
+account.json
+*.appstate.json
+*.appstate.json.bak
+*.bak
+# Persisted cookies and group settings
+/data/
+data/
+.nexca/
+*.log
+.DS_Store
